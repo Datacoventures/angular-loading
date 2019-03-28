@@ -6,7 +6,6 @@
     "url": "https://github.com/darthwade/angular-loading.git"
   },
   "dependencies": {
-	"angular": "~1.2.13",
     "spin.js": "https://github.com/fgnass/spin.js.git#f5c7fbd9a3c09845734af64688012f510ded5b85"
   },
   "devDependencies": {
